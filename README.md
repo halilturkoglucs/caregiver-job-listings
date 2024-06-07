@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 You can watch the demo showing how frontend and backend works together on Youtube:
 
-[![Firstly, you can watch the demo here](https://img.youtube.com/vi/7qilWyvgf74/0)](https://youtu.be/7qilWyvgf74)
+[Firstly, you can watch the demo here in Youtube]](https://youtu.be/7qilWyvgf74)
 
 # Dependencies
 
